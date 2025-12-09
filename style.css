@@ -1,0 +1,47 @@
+body {
+  background-color: whitesmoke;
+}
+
+.payment-card {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+}
+
+/* HEADER */
+.payment-card .card-header {
+  background-color: lightgrey ; 
+  border-bottom: 1px solid #e0e0e0;
+  padding: 16px 24px;
+}
+
+/* Título */
+.payment-card .card-header h3 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* BODY */
+.payment-card .card-body {
+  padding: 24px;
+}
+
+/* FOOTER */
+.payment-card .card-footer {
+  background-color: lightgrey;
+  border-top: 1px solid #e0e0e0;
+  padding: 16px 24px;
+}
+
+.caja-iconos {
+  background-color: #5f666d;
+  border-radius: 4px;
+  padding: 6px 10px;
+  display: inline-flex;        
+  align-items: center;
+  gap: 20px;                      
+}
+
+.icon-wrapper i {
+    color: white;
+}
