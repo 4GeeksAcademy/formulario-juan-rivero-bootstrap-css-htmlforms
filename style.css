@@ -33,6 +33,7 @@ body {
   padding: 16px 24px;
 }
 
+/* CAJITA ICONOS TARJETAS */
 .caja-iconos {
   background-color: #5f666d;
   border-radius: 4px;
@@ -42,6 +43,7 @@ body {
   gap: 20px;                      
 }
 
+/* ICONOS BLANCOS */
 .icon-wrapper i {
     color: white;
 }
